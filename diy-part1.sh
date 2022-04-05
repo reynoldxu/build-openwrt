@@ -16,3 +16,9 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+echo 'src-git linkeaseTHEM https://github.com/linkease/openwrt-themedog.git' >>feeds.conf.default
+echo 'src-git linkeaseSTORE https://github.com/linkease/istore.git' >>feeds.conf.default
+echo 'src-git linkease https://github.com/linkease/nas-packages.git' >>feeds.conf.default
+echo 'src-git linkeaseLUCI https://github.com/linkease/nas-packages-luci.git' >>feeds.conf.default
+echo 'src-git helloword https://github.com/fw876/helloworld.git' >>feeds.conf.default
+echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
